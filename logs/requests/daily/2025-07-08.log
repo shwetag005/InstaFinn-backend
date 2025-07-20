@@ -1,0 +1,1130 @@
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:36:05 +0000] "POST /instaFinn/users HTTP/1.1" 500 51 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [07/Jul/2025:18:38:57 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35293 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:18:38:57 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35293 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:18:38:59 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:18:40:49 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35293 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:18:40:49 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35293 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:18:40:51 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:49:13 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:50:41 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 401 37 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:52:01 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 401 37 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:55:17 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:55:59 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:56:40 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 64 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:56:41 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 64 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:56:43 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 64 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:18:57:48 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [07/Jul/2025:19:00:51 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:01:43 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35293 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:01:44 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35293 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:01:46 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:02:11 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 64 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [07/Jul/2025:19:03:59 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:04:11 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 64 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:07:37 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:10:06 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:13:24 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:17:10 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:18:23 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 42 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [07/Jul/2025:19:23:05 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:24:24 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 42 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:27:15 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 200 1223 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:29:57 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 401 27 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:30:13 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 401 27 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [07/Jul/2025:19:30:26 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:30:26 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:30:37 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:30:46 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 647 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:30:48 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:30:49 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:31:27 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 42 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:32:27 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 42 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [07/Jul/2025:19:33:14 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35294 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:33:14 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35294 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:33:15 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:33:28 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:33:46 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:33:53 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35294 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:33:53 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35294 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:33:57 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:33:57 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:34:10 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35294 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:34:10 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35294 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:34:12 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:35:47 +0000] "POST /instaFinn/loans/686688d048515f2dc0e53272/decision HTTP/1.1" 400 42 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [07/Jul/2025:19:38:06 +0000] "GET /instaFinn/banks/bankOperator/6866858e48515f2dc0e531ef HTTP/1.1" 200 648 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [07/Jul/2025:19:39:30 +0000] "POST /instaFinn/loans/6866cf4ec977753600943dfd/decision HTTP/1.1" 200 1223 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [07/Jul/2025:19:40:20 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:40:20 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:40:27 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:40:27 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:42:26 +0000] "GET /instaFinn/banks/subAgent/6866873e48515f2dc0e53247 HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:42:41 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:42:50 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 584 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:42:52 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:42:52 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:42:56 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 8916 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:42:56 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 8916 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:42:59 +0000] "GET /instaFinn/banks/subAgent/6866873e48515f2dc0e53247 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:43:06 +0000] "PUT /instaFinn/loans/686688d048515f2dc0e53272 HTTP/1.1" 400 101 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:43:53 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:44:00 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 557 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:44:01 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:44:01 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:44:11 +0000] "GET /instaFinn/users/below/685b9130714cab24c88f9d9f HTTP/1.1" 200 10996 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:44:11 +0000] "GET /instaFinn/users/below/685b9130714cab24c88f9d9f HTTP/1.1" 200 10996 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:45:09 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:45:18 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 624 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:45:18 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:45:18 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:45:23 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:45:23 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:46:47 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:46:57 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 627 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:46:57 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:46:57 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:47:00 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:47:00 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:47:48 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:47:58 +0000] "POST /instaFinn/users/login HTTP/1.1" 401 46 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:48:18 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:48:28 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 625 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:48:30 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:48:30 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:48:34 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:48:34 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:01 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:09 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 623 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:10 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:10 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:12 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:12 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:42 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:53 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 630 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:53 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:53 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:56 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:49:56 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:50:34 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:50:43 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 627 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:50:44 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:50:44 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:50:46 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:50:46 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:51:24 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:51:35 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 631 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:51:35 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:51:35 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:51:44 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [07/Jul/2025:19:51:45 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 35295 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:32:53 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:32:53 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:05:33:07 +0000] "POST /instaFinn/loans/6866cf4ec977753600943dfd/decision HTTP/1.1" 401 27 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:05:34:12 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:34:20 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 587 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:34:22 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:34:22 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:34:29 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 11995 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:34:29 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 11995 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:34:34 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:34:40 +0000] "PUT /instaFinn/loans/68665f88eb50835d6cf4189d HTTP/1.1" 400 70 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:34:43 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:35:05 +0000] "PUT /instaFinn/loans/68653d39142b761be05165bc HTTP/1.1" 400 70 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:35:23 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:37:00 +0000] "POST /instaFinn/loans HTTP/1.1" 201 84 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:37:09 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13517 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:37:09 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13517 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:37:11 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:37:21 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:38:35 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:05:38:44 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:05:39:26 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:05:55:53 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:06:02:28 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13707 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:02:28 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13707 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:02:54 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:03:00 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:19:56 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:19:56 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:20:10 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:20:16 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:27:49 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:27:49 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:27:51 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:28:41 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:28:57 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:06:32:03 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13707 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:32:03 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13707 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:32:10 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13707 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:32:10 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13707 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:32:25 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:32:56 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:34:47 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 401 27 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:35:33 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 401 27 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:35:34 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 401 27 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:36:08 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 401 27 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:06:37:00 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:37:00 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:37:10 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:37:27 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:37:29 +0000] "GET /instaFinn/users/otp/send HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:37:29 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:37:39 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 587 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:37:41 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:37:41 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:38:10 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:42:27 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:06:55:09 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:55:09 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:55:12 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:55:12 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:55:19 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:06:55:36 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:06:55:48 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:59:43 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:06:59:52 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:07:21:28 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:21:28 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:07:21:35 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:07:21:59 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:21:59 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 13758 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:07:22:07 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:07:25:46 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:07:27:57 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 200 1352 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:07:28:33 +0000] "GET /instaFinn/banks/subAgent/68622c48e8aee91ab0e3a346 HTTP/1.1" 200 7442 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:28:41 +0000] "PUT /instaFinn/loans/686cae7c8b6c182b7cb64ac1 HTTP/1.1" 200 1352 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:30:40 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:30:48 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 557 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:30:49 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:30:49 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:31:38 +0000] "GET /instaFinn/users/below/685b9130714cab24c88f9d9f HTTP/1.1" 200 10996 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:31:39 +0000] "GET /instaFinn/users/below/685b9130714cab24c88f9d9f HTTP/1.1" 200 10996 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:07:32:07 +0000] "GET /instaFinn/users/below/685b9130714cab24c88f9d9f HTTP/1.1" 200 10996 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:07:33:10 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:33:22 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 630 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:33:22 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:33:22 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:33:24 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:33:24 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:33:35 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:33:35 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:36:17 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:36:28 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 628 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:36:28 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:36:28 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:36:30 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:36:30 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:37:32 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:37:44 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 624 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:37:44 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:37:44 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:37:46 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:37:46 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:39:47 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:39:47 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:10 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:21 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 557 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:21 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:21 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:30 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:30 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:42 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:42 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:59 +0000] "GET /instaFinn/banks HTTP/1.1" 200 706 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:40:59 +0000] "GET /instaFinn/banks HTTP/1.1" 200 706 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:04 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:04 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:09 +0000] "GET /instaFinn/banks HTTP/1.1" 200 706 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:09 +0000] "GET /instaFinn/banks HTTP/1.1" 200 706 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:12 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:12 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:14 +0000] "GET /instaFinn/banks HTTP/1.1" 200 706 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:14 +0000] "GET /instaFinn/banks HTTP/1.1" 200 706 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:49 +0000] "GET /instaFinn/banks/685bd2181949304f4465b6f6/branches HTTP/1.1" 200 1152 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:41:49 +0000] "GET /instaFinn/banks/685bd2181949304f4465b6f6/branches HTTP/1.1" 200 1152 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:44:33 +0000] "GET /instaFinn/banks/685bd2281949304f4465b700/branches HTTP/1.1" 200 1166 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:44:33 +0000] "GET /instaFinn/banks/685bd2281949304f4465b700/branches HTTP/1.1" 200 1166 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:45:56 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:45:56 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:07:46:23 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:07:46:32 +0000] "GET /instaFinn/banks HTTP/1.1" 200 706 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:46:32 +0000] "GET /instaFinn/banks HTTP/1.1" 200 706 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:49:13 +0000] "POST /instaFinn/banks/685bd2371949304f4465b70c/branches HTTP/1.1" 400 45 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:49:51 +0000] "POST /instaFinn/banks/685bd2371949304f4465b70c/branches HTTP/1.1" 400 45 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:50:57 +0000] "POST /instaFinn/banks/685bd2371949304f4465b70c/branches HTTP/1.1" 201 819 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:50:57 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:50:57 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:51:36 +0000] "GET /instaFinn/users/below/685b9130714cab24c88f9d9f HTTP/1.1" 200 11423 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:51:36 +0000] "GET /instaFinn/users/below/685b9130714cab24c88f9d9f HTTP/1.1" 200 11423 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:51:40 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:07:51:40 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:02:15 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 7796 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:02:15 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 7796 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:03:44 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:03:44 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:03:51 +0000] "GET /instaFinn/users/below/685b9130714cab24c88f9d9f HTTP/1.1" 200 11423 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:03:51 +0000] "GET /instaFinn/users/below/685b9130714cab24c88f9d9f HTTP/1.1" 200 11423 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:04:43 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 401 45 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:04:43 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 401 45 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:05:14 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:05:16 +0000] "GET /instaFinn/users/otp/send HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:05:24 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 624 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:05:25 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:05:25 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:05:30 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:05:30 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:20 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:20 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 37058 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:22 +0000] "GET /instaFinn/banks/masterAdmin/685b9130714cab24c88f9d9f HTTP/1.1" 200 7796 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:34 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:44 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 589 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:44 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:44 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:47 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 3141 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:47 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 3141 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:07:50 +0000] "GET /instaFinn/banks/subAgent/68644a569f680a453cb00ede HTTP/1.1" 200 7796 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:08:25 +0000] "PUT /instaFinn/loans/68658004b5a0fc159c8f0b9f HTTP/1.1" 200 1390 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:17:08 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:17:08 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:18:39 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:18:39 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:18:40 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:18:40 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:19:16 +0000] "GET /instaFinn/banks/subAgent/68644a569f680a453cb00ede HTTP/1.1" 200 7796 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:19:28 +0000] "PUT /instaFinn/loans/68658004b5a0fc159c8f0b9f HTTP/1.1" 200 1390 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:19:52 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:20:00 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 627 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:20:00 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:20:00 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 389 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:20:02 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:20:02 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:26:31 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:26:31 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:26:36 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 3257 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:26:36 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 3257 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:27:12 +0000] "GET /instaFinn/banks/subAgent/68644a569f680a453cb00ede HTTP/1.1" 200 7796 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:28:27 +0000] "GET /instaFinn/banks/subAgent/68644a569f680a453cb00ede HTTP/1.1" 200 7796 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:28:35 +0000] "PUT /instaFinn/loans/68645045260f3525c4ed6879 HTTP/1.1" 200 1336 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:34:44 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 81 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:34:44 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 81 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:35:27 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 3373 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:35:27 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 3373 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:35:37 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:35:37 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:41:47 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 400 51 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:41:47 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 400 51 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:55:49 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 401 43 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:55:49 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 401 43 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:56:05 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 500 34 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:08:56:37 +0000] "POST /instaFinn/users HTTP/1.1" 201 555 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:08:56:50 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:56:59 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 557 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:57:00 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:57:00 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:57:05 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:57:05 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:57:07 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:57:07 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:58:40 +0000] "POST /instaFinn/users HTTP/1.1" 201 583 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:58:41 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 356 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:08:58:41 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 356 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:00:02 +0000] "POST /instaFinn/users HTTP/1.1" 201 580 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:00:03 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 708 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:00:03 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 708 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:01:00 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:01:13 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 557 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:01:14 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:01:14 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:01:17 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:01:17 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:01:20 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 708 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:01:20 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 708 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:02:06 +0000] "POST /instaFinn/users HTTP/1.1" 201 579 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:02:07 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 1059 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:02:07 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 1059 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:02:34 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:02:42 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 582 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:02:43 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:02:43 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:02:50 +0000] "GET /instaFinn/users/below/686cde12f5f2a510ac6e7d87 HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:02:50 +0000] "GET /instaFinn/users/below/686cde12f5f2a510ac6e7d87 HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:03:53 +0000] "POST /instaFinn/users HTTP/1.1" 201 581 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:03:54 +0000] "GET /instaFinn/users/below/686cde12f5f2a510ac6e7d87 HTTP/1.1" 200 354 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:03:54 +0000] "GET /instaFinn/users/below/686cde12f5f2a510ac6e7d87 HTTP/1.1" 200 354 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:04:48 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:04:57 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 583 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:04:57 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:04:57 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:05:00 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:05:00 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:05:01 +0000] "GET /instaFinn/users/below/686cdef9f5f2a510ac6e7db7 HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:05:01 +0000] "GET /instaFinn/users/below/686cdef9f5f2a510ac6e7db7 HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:06:01 +0000] "POST /instaFinn/users HTTP/1.1" 201 581 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:06:02 +0000] "GET /instaFinn/users/below/686cdef9f5f2a510ac6e7db7 HTTP/1.1" 200 354 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:06:02 +0000] "GET /instaFinn/users/below/686cdef9f5f2a510ac6e7db7 HTTP/1.1" 200 354 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:06:39 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:06:49 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 581 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:06:50 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:06:50 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:06:54 +0000] "GET /instaFinn/users/below/686cde8ef5f2a510ac6e7da1 HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:06:54 +0000] "GET /instaFinn/users/below/686cde8ef5f2a510ac6e7da1 HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:07:46 +0000] "POST /instaFinn/users HTTP/1.1" 201 584 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:07:47 +0000] "GET /instaFinn/users/below/686cde8ef5f2a510ac6e7da1 HTTP/1.1" 200 357 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:07:47 +0000] "GET /instaFinn/users/below/686cde8ef5f2a510ac6e7da1 HTTP/1.1" 200 357 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:08:24 +0000] "GET /instaFinn/users/below/686cde8ef5f2a510ac6e7da1 HTTP/1.1" 200 357 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:08:24 +0000] "GET /instaFinn/users/below/686cde8ef5f2a510ac6e7da1 HTTP/1.1" 200 357 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:08:34 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:08:34 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:09:29 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:09:40 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 557 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:09:41 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:09:41 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:09:45 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2121 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:09:45 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2121 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:09:56 +0000] "GET /instaFinn/banks HTTP/1.1" 200 50 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:09:56 +0000] "GET /instaFinn/banks HTTP/1.1" 200 50 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:11 +0000] "POST /instaFinn/banks HTTP/1.1" 201 185 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:11 +0000] "GET /instaFinn/banks HTTP/1.1" 200 204 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:11 +0000] "GET /instaFinn/banks HTTP/1.1" 200 204 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:24 +0000] "POST /instaFinn/banks HTTP/1.1" 201 192 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:25 +0000] "GET /instaFinn/banks HTTP/1.1" 200 366 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:25 +0000] "GET /instaFinn/banks HTTP/1.1" 200 366 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:29 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:29 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:31 +0000] "GET /instaFinn/banks HTTP/1.1" 200 366 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:10:31 +0000] "GET /instaFinn/banks HTTP/1.1" 200 366 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:13:46 +0000] "POST /instaFinn/banks/686ce073f5f2a510ac6e7e11/branches HTTP/1.1" 201 802 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:13:46 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 353 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:13:46 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 353 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:15:22 +0000] "POST /instaFinn/criteria HTTP/1.1" 201 769 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:15:22 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 906 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:15:25 +0000] "GET /instaFinn/banks HTTP/1.1" 200 366 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:15:25 +0000] "GET /instaFinn/banks HTTP/1.1" 200 366 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:17:29 +0000] "POST /instaFinn/banks/686ce080f5f2a510ac6e7e1b/branches HTTP/1.1" 201 816 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:17:29 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 1263 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:17:29 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 1263 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:18:53 +0000] "POST /instaFinn/criteria HTTP/1.1" 201 769 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:18:53 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 1816 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:19:49 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:19:49 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:19:54 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2961 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:19:54 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2961 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:21:42 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 1816 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:21:42 +0000] "GET /instaFinn/banks/masterAdmin/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 1816 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:28:43 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2961 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:28:43 +0000] "GET /instaFinn/users/below/686cdd45f5f2a510ac6e7d6b HTTP/1.1" 200 2961 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:29:31 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:29:40 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 586 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:29:41 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:29:41 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:29:43 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:29:43 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 62 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:31:33 +0000] "POST /instaFinn/loans HTTP/1.1" 201 135 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:31:40 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1464 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:31:40 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1464 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:31:42 +0000] "GET /instaFinn/banks/subAgent/686cdfe2f5f2a510ac6e7de9 HTTP/1.1" 200 1816 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:37:49 +0000] "POST /instaFinn/loans HTTP/1.1" 201 135 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:37:54 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 2863 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:37:54 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 2863 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:37:55 +0000] "GET /instaFinn/banks/subAgent/686cdfe2f5f2a510ac6e7de9 HTTP/1.1" 200 1816 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:38:35 +0000] "PUT /instaFinn/loans/686ce6edf5f2a510ac6e7eb7 HTTP/1.1" 200 1342 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:38:53 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:03 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 651 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:03 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:03 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:07 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:07 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:37 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:46 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 649 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:48 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:48 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:51 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:39:51 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:40:06 +0000] "GET /instaFinn/banks/bankOperator/686ce14af5f2a510ac6e7e38 HTTP/1.1" 200 924 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:09:40:23 +0000] "GET /instaFinn/banks/bankOperator/686ce14af5f2a510ac6e7e38 HTTP/1.1" 200 924 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:20:38 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:20:38 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:20:59 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:21:09 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 651 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:21:09 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:21:09 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:21:13 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:21:14 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:21:15 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:47:31 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:47:31 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:47:40 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:47:46 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:47:46 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:11:47:47 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:12:19:00 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:12:19:00 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:12:19:05 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:12:45:11 +0000] "POST /instaFinn/loans/686ce6edf5f2a510ac6e7eb7/decision HTTP/1.1" 401 27 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:12:45:31 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:12:45:31 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:12:45:43 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:12:45:54 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 651 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:12:45:55 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:12:45:55 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:12:46:16 +0000] "POST /instaFinn/loans/686ce6edf5f2a510ac6e7eb7/decision HTTP/1.1" 400 41 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:13:18:16 +0000] "POST /instaFinn/loans/686ce6edf5f2a510ac6e7eb7/decision HTTP/1.1" 400 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:13:27:40 +0000] "POST /instaFinn/loans/686ce6edf5f2a510ac6e7eb7/decision HTTP/1.1" 400 41 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:13:30:45 +0000] "POST /instaFinn/loans/686ce6edf5f2a510ac6e7eb7/decision HTTP/1.1" 400 125 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:13:39:08 +0000] "POST /instaFinn/loans/686ce6edf5f2a510ac6e7eb7/decision HTTP/1.1" 400 70 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Jul/2025:13:43:43 +0000] "POST /instaFinn/loans/686ce6edf5f2a510ac6e7eb7/decision HTTP/1.1" 200 321 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [08/Jul/2025:13:44:26 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:44:26 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:44:39 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:44:39 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:45:10 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:45:10 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:45:24 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:45:31 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 649 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:45:33 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:45:33 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:45:38 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:45:38 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:47:16 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:47:16 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 401 27 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:47:38 +0000] "POST /instaFinn/users/otp/send HTTP/1.1" 200 78 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:47:50 +0000] "POST /instaFinn/users/login HTTP/1.1" 200 651 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:47:51 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:47:51 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:47:56 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:47:56 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:48:25 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:48:25 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:49:34 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:49:34 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:49:37 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:49:37 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:49:58 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:49:58 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:09 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:09 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:14 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:14 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:24 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:24 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:26 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:26 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:27 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:27 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:30 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:30 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:32 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:32 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:34 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:34 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 500 109 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:36 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:50:36 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 500 108 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:51:17 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:51:17 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:54:00 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:54:00 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:54:04 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:54:04 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:54:16 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:54:16 +0000] "GET /instaFinn/other/applicationStatus HTTP/1.1" 200 388 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:54:25 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:54:25 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:13:54:27 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:11:49 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:11:49 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:11:57 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:12:11 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:12:11 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:12:17 +0000] "POST /instaFinn/criteria/686ce6edf5f2a510ac6e7eb7 HTTP/1.1" 404 47 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:14:55 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:14:55 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:14:59 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:14:59 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:15:02 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:15:18 +0000] "POST /instaFinn/loans/686ce6edf5f2a510ac6e7eb7/decision HTTP/1.1" 400 65 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:16:01 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:16:01 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:16:03 +0000] "GET /instaFinn/banks/bankOperator/686ce14af5f2a510ac6e7e38 HTTP/1.1" 200 924 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:16:24 +0000] "POST /instaFinn/loans/686ce6edf5f2a510ac6e7eb7/decision HTTP/1.1" 200 338 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:16:47 +0000] "GET /instaFinn/banks/bankOperator/686ce14af5f2a510ac6e7e38 HTTP/1.1" 200 924 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:27:05 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:27:05 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:29:28 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:29:28 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:29:28 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:29:28 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:31:35 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:31:47 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:31:48 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:31:49 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:33:12 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:33:12 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 200 1693 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:33:29 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 200 936 "http://localhost:3000/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:34:17 +0000] "GET /instaFinn/banks/bankOperator/686ce229f5f2a510ac6e7e5f HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:34:30 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Jul/2025:14:34:30 +0000] "GET /instaFinn/loans/visible HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+
